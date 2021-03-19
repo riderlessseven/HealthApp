@@ -1,0 +1,7 @@
+a{
+    text-decoration: none;
+}
+
+.btn-outline-primary:hover .main-button{
+    color: white;
+}
