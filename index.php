@@ -11,7 +11,7 @@
         <div class="jumbotron d-flex align-items-center vh-100">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-md-offset-3 col-md-6 text-center">
+                    <div class="col-md-offset-3 col-md-6 text-center"> <!-- comment-->
                         <h2>Welcome to A3 Health</h2>
                         <br>
                         <p><button type="button" class="btn btn-outline-primary"><a class="main-button" href="login.php">Login</a></button></p>
