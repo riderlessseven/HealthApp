@@ -1,0 +1,32 @@
+Member  Site
+------  ----
+
+EM      - Database
+            Add third table for user health checkins, with timestamp, user ID, checkin ID, rating, notes
+        - Styling
+            CSS for headers, page bodies
+        - Admin page
+            Allow admins to modify & delete users and checkins
+        - User homepage
+            Add table of previous checkins
+            Maybe a graph of them?
+        - Checkin page
+            Add checkin to table
+            Rating selection and notes entry
+
+        Report
+        ------
+
+        Sections:
+        1. Introduction
+        2. Frontend (HTML/CSS/JS/PHP on site)
+EM      3. Backend (SQL database)
+        4. Testing
+        5. Conclusion
+
+        Appendices:
+EM      i.   SQL script export
+EM      ii.  SQL commands used in frontend of the site
+        iii. Software code
+        iv.  Additional details of test scenarios and cases
+        v.   Additional details, graphs or charts
