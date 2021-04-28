@@ -19,7 +19,7 @@ PM      - Styling
 
         Sections:
 PM      1. Introduction
-        2. Frontend (HTML/CSS/JS/PHP on site)
+CR      2. Frontend (HTML/CSS/JS/PHP on site)
 EM      3. Backend (SQL database)
         4. Testing
         5. Conclusion
@@ -27,6 +27,6 @@ EM      3. Backend (SQL database)
         Appendices:
 EM      i.   SQL script export
 EM      ii.  SQL commands used in frontend of the site
-        iii. Software code
+CR      iii. Software code
         iv.  Additional details of test scenarios and cases
         v.   Additional details, graphs or charts
